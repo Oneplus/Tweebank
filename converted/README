@@ -1,0 +1,5 @@
+This is a conversion of the original tweebank, fixRoot.py is used to connect each separate tree within a tree to the first root with the parataxis relation (following https://www.aclweb.org/anthology/D18-1542.pdf). This version can be used with the official evaluation script.
+
+This is also the exact version used in the MaChAmp paper (https://arxiv.org/abs/2005.14672.pdf)
+
+Rob 21-03-2021
